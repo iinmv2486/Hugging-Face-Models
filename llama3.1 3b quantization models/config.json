@@ -1,0 +1,11 @@
+{
+    "model_name": "Meta-Llama-3.1-8B-Instruct",
+    "library_name": "transformers",
+    "license": "llama3.1",
+    "base_model": "meta-llama/Meta-Llama-3.1-8B-Instruct",
+    "tags": [
+      "abliterated",
+      "uncensored"
+    ]
+  }
+  
