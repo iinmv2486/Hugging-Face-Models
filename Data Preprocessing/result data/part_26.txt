@@ -1,0 +1,223 @@
+ uh uh basically this
+
+particular data right Sports and this uh
+
+politics and history and all but it
+
+don't know anything about this Indian
+
+election 24 so uh let's say if I'm going
+
+to ask any sort of a question that who
+
+will Who will win the election in 24
+
+right so who
+
+will win the election in
+
+India in in 24 so this is my simple
+
+question to my model now will it be able
+
+to answer this question tell me will it
+
+be able to answer this particular
+
+question no it cannot answer to this
+
+question why because it don't know
+
+anything about this particular data we
+
+haven't trained it we haven't trained my
+
+model on top of this data okay so my
+
+weights and biases actually it don't
+
+know anything about this particular
+
+information so what I can do so in this
+
+case I can perform the fine
+
+tuning fine tuning actually what it does
+
+see so here we will be passing this
+
+particular data so again this weights
+
+and biases means in short I can say
+
+parameter so my parameter actually it's
+
+going to be adjust okay my parameter
+
+this parameter is going to be adjust and
+
+now if I will ask this particular
+
+question to my model definitely I will
+
+be getting the answer why because now I
+
+have retrained my model on top of this
+
+data I have adjusted my parameter this
+
+bits and biases and now I can ask the
+
+question related to this particular
+
+information getting my point and this
+
+retraining okay additional training
+
+additional training it is called fine
+
+tuning I hope this thing is getting
+
+clear to all of you now let's do the F
+
+tuning of the GPD model using this aure
+
+open AI first of all what you have to do
+
+guys you have to open your Azure open AI
+
+uh a studio now inside this one just go
+
+and check with the model so here you
+
+will find out the various model and this
+
+is all the pre-trained model which
+
+someone has St and we are using just
+
+click on this create a custom model okay
+
+now here you find out it is telling to
+
+you this fine tuning is not available in
+
+this particular reason and I think I
+
+shown you initially that uh you can
+
+check the reason in which reason fine
+
+tuning and all which is available so
+
+what you can do so here uh simply you
+
+can uh go and check with the
+
+documentation let me show you again uh
+
+so this fine tuning is not available
+
+inside this East us uh but I have
+
+created one more a your openi service
+
+with the c uh with a South Central us
+
+okay I will show you that just a second
+
+so let it load or what I can do uh here
+
+actually I can just wait so let me close
+
+it first of all and I'm going to be open
+
+one more as your open Ai and with that
+
+basically I can show
+
+you oh just a second I think my Internet
+
+is
+
+slow great guys so here I have opened my
+
+Azure up here I I opened my Azure portal
+
+now let me open this Azure open Ai and
+
+here I already created two service so
+
+this is my first service which is inside
+
+this East us and the second was inside
+
+the nor North Central us sorry I was
+
+telling the South Central but it is
+
+inside the north central us once I will
+
+open it so here you will find out uh
+
+there is a model deployment now just
+
+click on this manage deployment and then
+
+uh okay until I think it is loaded now
+
+okay fine so I got it so see inside this
+
+particular section SE this fine tuning
+
+is not available we uh inside this fine
+
+tuning model and what is my reason my
+
+reason is the East us so what you can do
+
+just click on this drop down and then
+
+select this South Central USC still we
+
+are not able to get the fine tune model
+
+whatever model basically which I can
+
+find T so just again click on this drop
+
+down and select on this uh select this
+
+nor Central us now see guys we are able
+
+to get this model okay which I can find
+
+you so web with the
+
+$34 okay D in with the $40 uh GPD 3.5
+
+turbo $45 GPD 3.5 turbo $68 got it now
+
+uh what I can do so first of all let me
+
+show you how you can f tune how you can
+
+start your F tuning process and then uh
+
+we'll perform we like calculate the cost
+
+and all what might be the cost okay the
+
+minimum cost so first of all see we are
+
+inside this particular location north
+
+central us now just click on this model
+
+and then create on this custom model now
+
+here there is a various uh stages okay
+
+various stages which you need to fill
+
+out so first you need to select

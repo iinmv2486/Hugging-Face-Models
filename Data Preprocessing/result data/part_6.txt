@@ -1,0 +1,225 @@
+and the deploy and the global one okay
+
+here is what here's a global global
+
+deployment so generally actually we
+
+going to use this standard only because
+
+my pricing the subscription which I took
+
+it's a standard one if I want to take
+
+this provision so specifically I will
+
+have to make a request for this
+
+provision now I will show you what all
+
+model is there inside the provision and
+
+what all model is there inside the
+
+standard and what a model actually
+
+you'll find out inside the global reason
+
+everything I'll be showing you where
+
+over the portal itself now I hope your
+
+all the basics is clear coming to the
+
+next part so once you will open your
+
+azer so here see it is ready simply
+
+click on this go to the resources once
+
+you will click on this go to the
+
+resources guys here it is giving you the
+
+different different option right no need
+
+to go through with each and every option
+
+as of now so here uh let me show you
+
+which is the like uh necessary for you
+
+so first is this key and uh Endo so this
+
+I was telling to you that it is
+
+providing you two keys right so yes uh
+
+here is the first key and this is the
+
+second key you can utilize any key so
+
+for accessing your model so this is
+
+called primary key and here is what
+
+here's a like secondary key now you can
+
+read over here these keys are used to
+
+access your as your openi service do not
+
+share your key right each and every
+
+detail that like sharing with you we
+
+also recommend regenerating the key
+
+regularly you you can regenerate the key
+
+also over here and one only one key is
+
+necessary to make API call only one key
+
+is necessary no need to use both key
+
+over here then here's a reason so East
+
+us we are working in this reason and
+
+this is what this is the endpoint URL
+
+okay so this thing is clear to all of
+
+you now coming to the next one so guys
+
+here if you will click on this model
+
+deployment see let me click on this
+
+model deployment and here see there's a
+
+option manage deployment now they are
+
+telling to you model deployment feature
+
+have moved to the Azure openi Studio
+
+okay so uh see here you won't be able to
+
+find out this uh model deployment once
+
+you will click on this manage deployment
+
+so you will get one studio and that
+
+studio is called a your open a studio
+
+it's not Azure Studio that is different
+
+one that's a different one different
+
+service aurei Studio it is azure openi
+
+studio so let it open and then I will
+
+show you how you can access the various
+
+model from here and how you can deploy
+
+it and how you can create your own
+
+custom chat engine if you are enjoying
+
+the session guys please hit the like
+
+button please mention inside the comment
+
+section uh if you have any concern any
+
+doubt or whatever in your mind guys so
+
+see my a your openi studio is ready and
+
+see there are different different option
+
+now let me uh zoom in and see left hand
+
+side you'll find out various option now
+
+uh first guys uh what I can do uh let me
+
+click on this model so what all model is
+
+there so if you will check in the model
+
+in the in this model section find out
+
+the various model let it uh
+
+load okay so these are the model guys
+
+which is available in this specific
+
+reason the reason is what the reason is
+
+the reason is esus2 so see the model
+
+version created at which day okay now
+
+here stat is succeed and deployment yes
+
+it is available for what for the
+
+deployment okay so uh now guys apart
+
+from this model one more thing you need
+
+to check so guys here is a deployment so
+
+I haven't deploy any model over here and
+
+if I didn't deploy it guys definitely I
+
+cannot use it so uh for the deployment
+
+simply I can uh create a new deployment
+
+from here and I can deploy okay that is
+
+completely fine now EX in subscription
+
+key or wrong in point make sure okay not
+
+an issue let close it don't know why it
+
+is giving to me now coming to the next
+
+part here Chad so once I will click on
+
+this Chad so this is what this is my
+
+playground now here you will find out
+
+two thing first is what first is chat
+
+and second is completion so definitely I
+
+will give you the differences between
+
+this chat and this completion what is
+
+the difference in between now uh here
+
+one more is there Delhi is there right
+
+Delhi I think we all know about Delhi
+
+okay so here see it is telling to me
+
+this deployment is successfully as soon
+
+as I opened it and is like uh telling to
+
+me your deployment is done if you will
+
+go and check inside the model guys you

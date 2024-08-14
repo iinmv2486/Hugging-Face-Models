@@ -1,0 +1,217 @@
+ getting the context means I'll be
+
+getting the detail this operation is
+
+called retrieval operation and this a
+
+particular context along with a prompt I
+
+will be adding my prompt and this two
+
+information I'll be passing to what I'll
+
+be passing to my llm I think it is
+
+visible now I'll be passing to my llm
+
+now llm what it will do so it will read
+
+this prom it will read this context and
+
+finally it will be generated it will be
+
+generating the answer with respect to
+
+this particular query so this is the
+
+whole sort of a process now uh just see
+
+over here everything is done with
+
+respect to my uh data now what I will do
+
+if I'm going uh if I'm going now with a
+
+CH chat so there I will be able to find
+
+out my index okay somewhere uh it has uh
+
+this particular index in some database I
+
+don't know about it uh if I'm going to
+
+check the detail definitely I'll be
+
+getting but here you can think that it
+
+has created the vector index now I can
+
+uh select it okay so here is what here's
+
+my Vector index which is already there
+
+now I can select how it is going to be
+
+find out the similar search so here I'm
+
+going to be select both option one is
+
+Vector and the second is what keyword
+
+okay so hybrid option now uh let's say
+
+uh uh let's ask the same question to my
+
+chat bot over here to this uh okay so it
+
+is tell me content cannot be empty
+
+validation error message zero why it is
+
+so guys I think I will have to select
+
+the model so model is also there now let
+
+me ask one more time just a
+
+second okay great now I'm getting so
+
+here uh what I can do I can ask what is
+
+a price what is a price of nice sorry
+
+Nike Air Max shoes
+
+so previously actually it was not giving
+
+me the answer but let's see whether it
+
+is giving me answer or not so now here
+
+the price of this Nike Air Max blush
+
+true is what guys 150 USD if you will go
+
+and check with the PDF you will be
+
+finding out the same price okay now you
+
+can ask any sort of a thing uh to your
+
+uh model with respect to this data and
+
+here see uh it is showing me the
+
+reference also from where actually it is
+
+taking a reference now I want to use
+
+this rag system the rag this one retrial
+
+argument generation in my own in my own
+
+chatbot see here is what here is my
+
+chatbot which I have created so let me
+
+run it python app.py it is running on
+
+top of this particular URL so see guys
+
+here if I'm going to be run it so I will
+
+be getting my chat board this one how I
+
+can integrate this Rec system into this
+
+chatboard now we'll see that particular
+
+process so here guys if I want to do it
+
+so uh I can do it right but how so this
+
+prom flow is The Rescuer okay by using
+
+this prom flow I can do it now uh let me
+
+show you how it is possible so once you
+
+will click on this prom flow uh this
+
+prom flow basically what is the meaning
+
+of the prom flow guys so by using this
+
+prom flow you can schedule the end to
+
+end pipeline okay end to end pipeline
+
+from data injection to this uh like uh
+
+retrieval and then this uh chatbot
+
+generation and all means this data
+
+generation and then deployment also so
+
+what here basically what I did I have
+
+created this pipeline now I'm going to
+
+be deployed by using this prom flow so
+
+I'm going to write my own name the name
+
+is going to be crash course over here
+
+now uh let me open it and here you can
+
+see it will provide me the location as
+
+well just simply click on this open and
+
+see it is going to open this
+
+particular
+
+folder so just a second uh it will take
+
+some time
+
+so now see guys uh it has opened uh this
+
+particular prom flow so uh inside this
+
+prom flow see there are lots many option
+
+okay so which option you need to select
+
+so first of all see let me show you the
+
+files and all so here uh you will be
+
+able to get all the files because see at
+
+the end this is nothing it's a code only
+
+right so whatever I have I have done
+
+over there uh the data uploaders that
+
+data upload and all with respect to that
+
+it has generated all the files and
+
+folder see it is a search it is with
+
+respect to the search this one see now
+
+uh here you'll find out uh this one with
+
+respect to the chunking and all see this
+
+is the require. txt if you want to see
+
+the content also uh you can like you
+
+just need to double click on top of it

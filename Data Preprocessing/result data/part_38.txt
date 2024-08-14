@@ -1,0 +1,221 @@
+
+
+and here is the charges for the virtual
+
+machine okay 0.1 per hour so I'm going
+
+to be select this standard only but if
+
+you want to select any custom one then
+
+definitely you can select that also uh
+
+let me show you where this one so once
+
+you will click on this drop down you
+
+will be getting all the option with
+
+respect to the machine so that is what I
+
+was telling to you if you want to make
+
+your process faster you can like select
+
+the instance according to your
+
+requirement okay now what I'm doing so
+
+here I'm keeping it this by default uh
+
+this a particular machine only so what
+
+is the which is the one so here is this
+
+EXT standard one now after this one guys
+
+the next thing is instance count so I
+
+will be keeping three instance okay now
+
+inferencing data collection okay so here
+
+I'm keeping enable only all the
+
+information by default now review and
+
+create now uh see you can review all the
+
+information one more time and finally
+
+you can click on this create now see
+
+here my application is going to be
+
+deploy guys so it takes time it will
+
+take some time now how you can check you
+
+can check inside this notification so
+
+this is a notification guys and my model
+
+is getting deployed so once uh it will
+
+be deployed you will get the
+
+notification over here inside this
+
+particular section so let it deploy
+
+let's wait uh for some time until what I
+
+can do I can write my code okay for the
+
+further thing so uh here I was returning
+
+this render template but uh I don't want
+
+as of now this one I'm writing a full
+
+flag code so first is what first uh is a
+
+if else condition so here I'm going to
+
+be write the condition my if condition
+
+so inside this condition guys or I can
+
+do one thing I can give you the entire
+
+code and we can understand like a step
+
+by step I think that would be great so
+
+see this is my complete code guys it is
+
+very simple very easy nothing is here
+
+and uh easily you can understand this
+
+particular code so inside this code see
+
+what I have I have my if and else
+
+condition so if request. method is post
+
+in that case what I'm doing I'm getting
+
+the user query okay from my user side
+
+I'm converting uh this query in this
+
+particular form okay this uh Json form
+
+then here is a body okay means I'm going
+
+to be dump it Json do dump data and then
+
+I'm going to be encoded right so in this
+
+particular format actually I want my
+
+query this is a specific format which is
+
+required okay to sending the query to my
+
+end Point URL now here is my URL guys so
+
+here actually I'll be keeping my URL
+
+which I'm generating so let me remove
+
+this one from here and let me keep my
+
+URL I will be showing you how you will
+
+be getting it now remove this API key
+
+you can keep your API key I'll be
+
+showing you how you will be getting it
+
+then if not API key I can generate this
+
+particular exception now this is my
+
+header guys okay so in the header you
+
+can see there is my uh like content this
+
+is what application SL here is what here
+
+is my API key and then this is my
+
+application name okay the deployment
+
+name now apart from this one see here
+
+what I have I have my request so I'm
+
+going to be request to this particular
+
+end you endpoint URL here is my URL and
+
+here I'm getting the response okay now
+
+from this particular response I'm
+
+collecting my text okay whatever uh
+
+thing I required and then finally I'm
+
+going to be return it to my HTML page
+
+getting my point if it is going to
+
+generate any sort of error in that case
+
+there is my exception module now you
+
+must be thinking from where I got this
+
+particular code so guys I didn't get it
+
+from my end I didn't write from my end I
+
+got it from The Tell Me from where from
+
+the uh like uh prom flow itself I'll be
+
+showing you after deployment you will
+
+get the entire template over there now
+
+here uh in the else uh it's nothing so
+
+yes if it is not a post request in that
+
+case uh yes we are just showing this
+
+particular template that's it now if you
+
+will look into the HTML code now just go
+
+and check with the HTML code so here uh
+
+what I have so it is very simple code
+
+now this is my header okay head and here
+
+is my body in my body I have one div
+
+this one right which is showing me a
+
+reply this a particular div and this is
+
+my form okay you can create form before
+
+the DI this is also fine now here is my
+
+form which is a like which is working on

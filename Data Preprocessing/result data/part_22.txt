@@ -1,0 +1,233 @@
+ will write the city name
+
+means once you will write a location so
+
+what you will get you will be getting
+
+the uh latitude and longitude of that a
+
+specific City just copy it and keep it
+
+over there I'll be showing you how to
+
+call each and everything after defining
+
+the function and all so uh I'm going to
+
+be keep it inside where inside my file
+
+itself got it so this three API so this
+
+three thing now what I can do I can
+
+replace this uh API key okay or what I
+
+will do directly I will be pasting
+
+inside the code itself and you will be
+
+getting now one thing I haven't talked
+
+about the function okay so first of all
+
+let me Define the function so that
+
+function basically it will fetch the
+
+location from where it will fetch the
+
+location from The Prompt itself right
+
+right and then we are going to be pass
+
+that location over here to the city name
+
+and based on that I'm going to fetch
+
+this latitude and longitude and finally
+
+I'll be generating my current weather
+
+based on my query getting my point now
+
+let's try to perform it so uh let me
+
+create a function guys so I already
+
+created a definition of the function I'm
+
+giving to you and here uh this is the
+
+definition so inside the definition the
+
+first name is what the first thing is
+
+the get weather this is the name of the
+
+function
+
+here is the description of the function
+
+okay description is what you can see you
+
+are you have to retrieve the time
+
+information data about a particular
+
+location and place simple uh description
+
+now parameter this is very much
+
+important guys this particular parameter
+
+now see uh here in the parameter
+
+actually we have given this location so
+
+this is going to my parameter and this
+
+parameter I will be fetching from where
+
+tell me this parameter I'll be fetching
+
+I mean this location I'll be fetching
+
+from The Prompt itself automatically it
+
+will take it or automatically uh like
+
+whenever we are going to be Define a
+
+function it will collect it from the
+
+location itself or if we are going to be
+
+Define the a few short prom okay let's
+
+say we are going to give a description
+
+and based on that I have to fet some
+
+information so that uh thing in that
+
+specific manner I will have to mention
+
+over here okay with those specific
+
+parameter so later on I'll be showing
+
+you that particular example as well but
+
+over here I hope this thing is clear
+
+this is a simple this is a simple
+
+function definition so which thing we
+
+required we required this location okay
+
+so function calling is done now coming
+
+to the next part so here I have to write
+
+a code for what tell me I have to write
+
+a code for the uh latitude and the
+
+longitude so first I will I will be
+
+giving the city name means the location
+
+uh which I'm fetching from where from
+
+The Prompt itself using this function
+
+and then I'm going to be pass it to this
+
+latitude and this longitude okay so uh
+
+one more thing guys I told you that over
+
+here inside this completion API I have
+
+to Define the function also so let me
+
+Define the function so here is what here
+
+is a function parameter and which I'm
+
+going to be defined inside my completion
+
+API fine so everything is perfect
+
+everything is clear now coming to the
+
+next part now if we want to collect okay
+
+if you want to collect this uh latitude
+
+and longitude so we'll have to write the
+
+further code so first of all let me
+
+remove this print statement as of now it
+
+is not required now just focus guys so
+
+here is my code okay I already return it
+
+let me give it to you this particular
+
+code and one by one step by step I can
+
+exper you so uh see uh this is the code
+
+guys okay just just focus now and I just
+
+just try to understand each and
+
+everything whatever I have written over
+
+here okay now the very first thing so
+
+let me align this entire code and uh I
+
+have to write it down just for saving
+
+the time and uh let me explain you this
+
+one this is a specific function for
+
+fetching the data great guys fine so
+
+let's uh discuss this particular
+
+function okay so let me switch off my
+
+camera so that you can get the access of
+
+the entire screen and here let me remove
+
+this also fine now just focus here so
+
+first of all guys what we are doing see
+
+we are going to be uh load this input
+
+okay sorry this output whatever output
+
+I'm getting from where from this
+
+completion API okay so here uh what I'm
+
+getting tell me I'm getting the output
+
+and this particular output I'm going to
+
+be defined inside this initial output
+
+okay inside this particular parameter so
+
+I have this Json let me check whether I
+
+have Json or not so here I have

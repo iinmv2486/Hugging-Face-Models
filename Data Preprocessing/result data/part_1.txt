@@ -1,0 +1,229 @@
+hello guys so here is an amazing crash
+
+course on developing generative AI
+
+application using Azure open services so
+
+AZ open Services was one of the most
+
+requested video by all of you and I feel
+
+that this crash course will definitely
+
+help you learn a lot of things out there
+
+uh this entire crash course has been
+
+developed by S Savita uh who is an
+
+amazing Mentor uh I will be providing
+
+his YouTube channel in the description
+
+of this particular video along with the
+
+entire code materials about his GitHub
+
+everything will be available in the
+
+description so please make sure that you
+
+watch this video till the end and
+
+definitely make sure to implement each
+
+and everything because this crash course
+
+is going to be for 3 hours and along
+
+with that you will be able to find out
+
+the entire timestamps in the description
+
+of this particular video so yes go ahead
+
+and I've been just going to keep a
+
+target of likes for this particular
+
+video let's keep the target to 2,000 and
+
+I hope uh you will be able to achieve it
+
+as soon as possible yes go ahead and
+
+enjoy the scratch course thank you
+
+hey hello everyone welcome to this azir
+
+openi crash course in this azer open
+
+crash course we'll try to understand
+
+each and every aspect of the azer open
+
+and we'll try to understand it from
+
+basic to Advanced so guys first of all
+
+let me introduce myself my name is s
+
+Savita and I will be your host for this
+
+entire course I'm having around four
+
+year of experience with data science
+
+machine learning deep learning mlops and
+
+and from past one year I working with
+
+the generative AI so guys let's start so
+
+uh first of all let me show you the pp
+
+uh which I created for all of you uh
+
+just to just to introduce all the
+
+modules and all uh whatever we are going
+
+to discuss in this particular course so
+
+in the first module we'll discuss about
+
+the introduction of the Azure open AI
+
+that uh we'll try to discuss the
+
+differences between Azure open a versus
+
+open a then we'll see the how you can
+
+access the a account how you can create
+
+it and uh we'll see the subscription
+
+method and all so we uh this Basics
+
+first I will start this Basics only and
+
+then after this one I will come to this
+
+uh uh like little Advanced part where
+
+we'll see then how we can access the
+
+aure open a okay uh apart from this one
+
+resource creation model
+
+deployment understanding uh token per
+
+minute what is this limit and this uh
+
+request per minute and then we'll talk
+
+about the chat playground and and will
+
+discuss the different different model
+
+how you can access these different
+
+different model like GPD 3.54 Delhi
+
+whisper and all then we'll understand
+
+how you can use the python SDK for uh
+
+like for using this uh chat completion
+
+API we'll try to access the various
+
+model using this chat completion API
+
+we'll write the code inside our local
+
+system and finally we are going to
+
+create our custom web app and we'll
+
+deploy it also now after this one after
+
+this Aero I will come to the function
+
+calling using Azure open we'll use it
+
+using the python SDK only we'll try to
+
+write a code inside the local and we'll
+
+try to call any third party API then
+
+after we'll discuss about the finetuning
+
+concept of the azero we'll select the
+
+appropriate model for the fine tuning
+
+we'll prepare the data for it we'll talk
+
+about the complete cost and all and
+
+we'll see how we can find you the model
+
+inside the azer open AI now at the and
+
+we discuss about this a your AI studio
+
+so guys this is very important thing a
+
+your AI studio and uh first we'll see
+
+how you can create a your AI Hub and the
+
+resources we'll try to uh deploy the
+
+various model over here and then I will
+
+create our custom rag application so
+
+before this one uh I was talking about
+
+the fine tuning now after the fine
+
+tuning I'll be discussing about the rag
+
+so we'll create our own a complete
+
+pipeline using this prf flow it provide
+
+one uh specific it provide one specific
+
+uh service that is called prom flow with
+
+that actually we can create our own
+
+custom application we can deploy it we
+
+can generate the endpoint URL and we can
+
+connect with our own custom application
+
+also so yes at the end we we will create
+
+our own chatbot using flask and we'll
+
+try to consume the rag model from where
+
+from the Azure AI studio so I hope this
+
+syllabus is clear to all of you now uh
+
+let's do one thing let's start up from
+
+the Azure itself so guys once you will
+
+search over the Google let me search in
+
+front of

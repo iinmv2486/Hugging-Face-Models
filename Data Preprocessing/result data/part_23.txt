@@ -1,0 +1,223 @@
+ to
+
+import the Json got it so this is my
+
+Json now see here is what here is my
+
+initial output which I'm getting now
+
+from this particular output I'm going to
+
+be def I'm going to be F the location
+
+okay so I'm getting a location over here
+
+I'm seeing over here okay if location is
+
+exist so please do let me know the
+
+location I'm simply printing it and then
+
+I'm going to be call it okay I'm going
+
+to be call what I'm going to be call
+
+tell me I'm going to be call this get
+
+weather method so here to this get
+
+weather method I'm passing this location
+
+okay now based in this location based on
+
+this particular location what I am
+
+getting I'm getting uh my response okay
+
+once I will hit this particular URL and
+
+from this particular response I can
+
+collect the latitude and longitude based
+
+on my location only so I'm printing my
+
+latitude and longitude also and then
+
+this is my final URL uh with the
+
+latitude and longitude and based on this
+
+latitude and longitude we are going to
+
+fetch the tell me guys what we are going
+
+to fetch we are going to fetch the final
+
+response and here we are printing uh
+
+this particular response getting my
+
+point yes or no guys tell me I hope this
+
+is clear now uh here in front in place
+
+of this particular URL whatever is there
+
+so previously I was testing with the API
+
+it was working fine so I have I had
+
+generated this URL now let me remove
+
+this URL and let me put mine whatever I
+
+have created so first of all let me keep
+
+this API key so here is my API key I'm
+
+going to be copy it and I'm going to be
+
+keep it over here that's it now the next
+
+thing is what so over here after keeping
+
+the API key guys what is required tell
+
+me so here the location is required uh
+
+so this side also I can mention the API
+
+key perfect guys let me keep it inside
+
+the double code great now uh here city
+
+name so city name actually I can replace
+
+with the location so let me keep the
+
+location over here this one and here
+
+perfect now what I will do I'm going to
+
+be concatenate this particular string
+
+this one and this one guys so let me
+
+keep it like this great and here this I
+
+can keep inside the double code okay
+
+perfect and here I can keep this
+
+particular value inside the double code
+
+so that is going to create my entire URL
+
+okay so I can remove this uh this one
+
+because it is not at all required fine
+
+so this is my complete URL which I got
+
+now simply I can copy and paste it over
+
+there because I want it with this
+
+particular API key so here is my URL let
+
+me remove it first of all and perfect
+
+guys this is my latest URL now same
+
+thing I have to do with this one also so
+
+first of all let me remove this uh last
+
+one because I already pasted and here I
+
+require this latitude and longitude so
+
+let me keep this latitude and longitude
+
+because I want in a Str strr form so
+
+here is
+
+my latitude okay great now what I will
+
+do I'll be keeping it over here and then
+
+inside the double code that's it so this
+
+thing I'm keeping inside a double code
+
+and now plus and then s Str longitude
+
+okay I have to create a URL in this
+
+particular form only so that's why I'm
+
+doing this each and everything now uh
+
+this is my SDR longitude now I'm going
+
+to be click on this plus and perfect
+
+guys so I got my this URL as well fine
+
+so I'm going to be keep it inside the
+
+double code yes perfect so here is what
+
+here is the uh longitude and now let me
+
+keep the latitude also guys just a
+
+second uh so here is what here is my let
+
+SD uh weather is here weather and then s
+
+Str perfect guys so this is going to be
+
+my latitude okay so just a second I
+
+think I did it wrong now let me keep it
+
+over here that's it guys perfect so uh
+
+now let me cross check this particular
+
+URL whether it is a correct or not and
+
+here for this one I can simply check
+
+with my WEA open AI so weather open Ai
+
+and this is the one just give me a
+
+second and I'm finally going to call it
+
+so here is the lead guys so this is the
+
+thing basically which I was missing
+
+after the weather and please check out
+
+with the original one if H something is
+
+missing or something is there perfect
+
+guys so this is my complete URL now I'm
+
+going to be copy and paste where tell me
+
+over there itself so here is my URL so
+
+let me remove it
+
+and this is going to my
+
+request perfect and yes so see guys I
+
+have pasted my URL with the

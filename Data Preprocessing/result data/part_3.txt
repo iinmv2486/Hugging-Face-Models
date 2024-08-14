@@ -1,0 +1,233 @@
+ so
+
+first you will have to make a request
+
+and then only you can access this as
+
+your openi service uh if you are not
+
+making a request guys you won't be able
+
+to uh access this service and this
+
+request approval actually takes around
+
+24hour time so within one business day
+
+they will approve your request and then
+
+you can utilize this particular service
+
+I hope this thing is clear to all of you
+
+now coming to the next point that what
+
+is the difference between this Azure
+
+open Ai and open AI means a your open
+
+API and open a API okay so first of all
+
+let me show you this open AI API so if
+
+I'm searching over here open AI API now
+
+uh you will get it uh so let me open it
+
+first of all explore the API and start
+
+building so this is what this is my h
+
+this is my openi API right so uh yes uh
+
+I think we all have used this openi API
+
+and even uh on this channel itself
+
+you'll find out many video related to
+
+this openai API in all and uh definitely
+
+you can generate the API key you can
+
+access the various model we have a
+
+various model basically here inside this
+
+uh aure inside this openi itself like uh
+
+GPT GPT GPT 3.5 gp4 whisper Delhi
+
+various model right now guys uh first of
+
+all we have to see the differences right
+
+because until unless we are not going to
+
+understand the
+
+differences there will be a confusion
+
+okay so what I did I created uh like
+
+one like here I written the differences
+
+for all of you I think it is visible now
+
+so a your openi versus openi so uh just
+
+just try to read over here what uh what
+
+I have mentioned so a your open actually
+
+it is providing you the managed
+
+infrastructure okay where it is
+
+providing you all the security right all
+
+the security and here you can see AZ
+
+openi offers private networking reasonal
+
+availability and responsible AI flood TR
+
+okay now uh on the other hand we have
+
+this open AI so if you will uh see
+
+inside the open so it is like I have
+
+written over here open itself is not a
+
+secure okay so here this Azure open like
+
+whatever Services it is providing to you
+
+uh like whatever security Feature
+
+alerting Feature metrix and all I will
+
+come to that I will explain you in a
+
+detail I have kep couple of more images
+
+okay so yes those feature is there
+
+inside the a open but if you're going to
+
+use open only open you won't get those
+
+feature definitely you can access the
+
+model whatever model they are providing
+
+to providing to you and you can uh use
+
+those model okay inside your
+
+infrastructure so whatever
+
+infrastructure you have created with
+
+whatever security compliances and all so
+
+you can use over there there but you
+
+won't be like get the so here actually
+
+it won't be a manage service you are
+
+doing it by yourself it's a custom one
+
+right which you are doing from your end
+
+and there you are consuming this open AI
+
+API but on the other hand if you if
+
+you're going to see this Azure open API
+
+it is providing you the complete manage
+
+service means it is providing the model
+
+along with that security different
+
+different matrixes alert alarm and all
+
+and here you can see the last one is
+
+what responsible AI content filtering so
+
+responsible AI content filtering means
+
+what so uh like no other harmful
+
+activity which uh like if you are
+
+performing any harmful activity uh with
+
+respect to that model so they will block
+
+you okay and yes uh they will take this
+
+action immediately so that like you
+
+cannot perform any unusual activity now
+
+here uh the second one is what
+
+functionality such as uh raising an
+
+alert whenever suspicious activity for
+
+instance changing of a primary key are
+
+supported so it is providing you it is
+
+providing you multiple key okay uh
+
+actually it provide you two key two API
+
+key so if let's say one key is going to
+
+be exposed so immediately it will rotate
+
+the key okay so it is having that a
+
+particular mechanism so automatically it
+
+will be done now other other other than
+
+this azeria you will find out this
+
+functionality like there is not
+
+supported so it is highly likely that
+
+data T happen means uh this open a
+
+actually it is not providing you that
+
+type of functionality it is just
+
+providing the simple uh key and uh not
+
+it is not providing you the other of
+
+functionality okay it is not providing
+
+the other functionality related to the
+
+security and all now coming to the
+
+security part so in the security part
+
+see here I have mention so first one is
+
+what multifactor authentication the
+
+second is what a data encryption at rest
+
+right the

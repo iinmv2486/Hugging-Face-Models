@@ -1,0 +1,227 @@
+
+
+will find find out this uh sorry inside
+
+the deployment you'll find out what
+
+you'll find out this Delhi okay because
+
+whatever model I want to use so first uh
+
+I will have to deploy that model then
+
+only I can use those model so
+
+automatically it got deployed uh and it
+
+will be uh it will happen for you as
+
+well once you will click over here it
+
+will deploy now I'm coming to the chat
+
+completion API now inside the chat
+
+completion API see uh here it is telling
+
+to me you don't have any deployment see
+
+Delhi is just for this one for this a
+
+particular one but this Delhi is not for
+
+of this one we cannot create an image
+
+from here and similar to this one we
+
+have this completion API so if you
+
+remember guys uh I don't know you know
+
+or you don't know see uh this open AI if
+
+you will go and check with the open a so
+
+there they have two type of API the
+
+first is called uh chat completion API
+
+and the second is called completion API
+
+so completion API actually they were
+
+using they will they were using inside
+
+the previous version of the open AI I
+
+think in 0.26 maybe 0.26 or 29 the open
+
+a module you can simply check now this
+
+chat completion API actually it's a
+
+latest one okay and like still in the
+
+latest version they are using this chat
+
+completion API and I will be showing you
+
+the code as well by seeing the code you
+
+can identify it if you want to know more
+
+about this chat completion and
+
+completion API so it's see don't go with
+
+the completion API always go with the
+
+chat completion API but still you want
+
+to know simply you can search that
+
+completion API versus completion API so
+
+simply you will get how many uh like
+
+platform and all and even uh they are
+
+explaining you over the uh like openi
+
+developer Forum as well see here is a
+
+complete detail so now this chat
+
+completion API actually it's a latest
+
+one and we're going to use it even over
+
+the St overflow also you will find it
+
+out so simply you can click over here
+
+and you can read about it complete
+
+details and all okay I hope this thing
+
+is clear now coming to the deployment so
+
+guys uh before deployment I would like
+
+to clear one more thing over here so
+
+that is nothing that's a quota right so
+
+Kota or the type of the deployment
+
+anything you can say now just click over
+
+here and here once you will click so you
+
+will find out we have a different
+
+different type so different different
+
+type means what so different different
+
+type means standard provision okay
+
+global standard other so different
+
+different type right so now see whatever
+
+model is there inside this standard okay
+
+inside this particular segment I can
+
+access all these model but whatever
+
+model is there inside the provision for
+
+this one I will have to make a specific
+
+request okay or I will have to make my
+
+subscription okay so I will have to take
+
+this pay as you as you go plus one the
+
+premium one then only I can access or
+
+specifically I will have to make a
+
+request for increasing my quota right
+
+and yes definitely charges and all will
+
+be associated with this provision if you
+
+are going to purchase this subscription
+
+if you have a standard subscription then
+
+you can access these many model this
+
+particular model now let me show you how
+
+you can do it so guys once you will go
+
+in the deployment okay now just click on
+
+this create new deployment from here you
+
+can select your model so let's say I'm
+
+going to be select this uh GPD 3.5 turbo
+
+so yes this GPD 3.5 turbo is available
+
+for me inside this ex standard Cota now
+
+this is telling to me because this fine
+
+tuning is not available inside this
+
+particular reason and because of that it
+
+is giving me this particular warning no
+
+not an issue I can close it I can ignore
+
+it now uh see this deployment type is
+
+what standard now other than this one if
+
+I'm going to select any other model
+
+let's say if I'm going to select this
+
+dpd 332k now see it is uh coming to this
+
+provision manage and here if you will go
+
+if you will see this uh warning so it is
+
+telling to me requesting for more Kota
+
+just the existing Kota means I will have
+
+to increase the Kota specifically I will
+
+have to make a request for this
+
+particular model so once I will click
+
+over here I'll will be getting it so
+
+I'll be getting the complete form okay
+
+so yes you can fill out that form and
+
+then you can raise your quota see once
+
+you will go inside the provision and
+
+which model guys this one now just click
+
+over here this

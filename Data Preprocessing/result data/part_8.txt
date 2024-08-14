@@ -1,0 +1,223 @@
+ uh to this one so let me
+
+show you just wait I think I can hide to
+
+myself okay this one guys see here is
+
+the option request Kota so once you will
+
+click over here on this request Kota so
+
+it will contact your Microsoft account
+
+team to request provision through P Kota
+
+okay fine so I think I will have to take
+
+a advanced subscription for accessing
+
+this particular model I believe this
+
+thing is getting clear to all of you now
+
+uh for some model actually you can
+
+access from here itself so let's say if
+
+I want to access this particular model
+
+gp3 gp4 turbo uh let's uh see okay no
+
+for this one also I think I will have to
+
+make my uh I will have to like take a
+
+advanced subscription got it so uh
+
+whatever thing is there inside the
+
+standard I'm going to use only those
+
+particular model I believe this thing is
+
+clear to all of you now let's make a
+
+deployment of few models and let's start
+
+to use it for our chatting purpose or
+
+for the content generation and all so
+
+click on the deployment and here we can
+
+easily like do our work with our GPD 3.5
+
+or Turbo as well and here in this
+
+particular regon see in the standard
+
+region this GPD 4 is also available so
+
+yes we can use this gbd4 for what for
+
+the images for the image related thing
+
+now uh let me select first GP 3.5 turbo
+
+and here I can write the deployment name
+
+so this is going to my chat engine and
+
+here guys see this is a token limit
+
+token per minute uh rate limit so what's
+
+the meaning of it token per minute rate
+
+limit so in 1 minute actually how many
+
+tokens you can proceed okay so you can
+
+increase it according to your
+
+requirement token means what the number
+
+of words uh so inside one sentence like
+
+how many tokens is there how many words
+
+is there it is asking about to this one
+
+right this second is one so
+
+corresponding to this limit see if you
+
+are going to increase the limit so this
+
+limit is also increasing so this limit
+
+actually RPM it is showing to you
+
+request per minute okay so in uh 1
+
+minute how many request you are making
+
+right to your API so I hope this two
+
+thing is clear it is pretty much
+
+important now I'm keeping it low because
+
+I for this practice I not required this
+
+much of like RPM and this TPM I can
+
+simply keep it 30,000 only that's it now
+
+what I can do I can simply click on this
+
+create and see my deployment is going on
+
+so once I will deploy I can access the
+
+model inside this chat section see now
+
+apart from this one guys uh we can take
+
+one more model so the model is what gp4
+
+so which model guys gp4 Omni I'm going
+
+to be select gp4 Omni because it is
+
+available inside this ex standard price
+
+so just click over here and then you can
+
+write the name of the deployment this is
+
+what your this is your Omni model then
+
+uh you can select the PPM and RPM and
+
+then finally you can create
+
+so see your model is getting created and
+
+now it's successfully deployed so what
+
+you can do you can go inside this chat
+
+and now you won't able to find out that
+
+a particular issue so see this is what
+
+this is my complete chat playground this
+
+is my complete chat completion API so uh
+
+if you want to select the model simply
+
+you can uh click on this drop down I
+
+think it is visible let me uh let me
+
+switch off my video this one guys chat
+
+engine in the deployment itself you can
+
+see this one so once you will click over
+
+here you'll find out this chat engine
+
+and this Omni model this Delhi it is
+
+only for this particular playground okay
+
+it is not for this chat Playground now
+
+uh what I can do I can use this
+
+particular model so let's say I want to
+
+use this chat uh engine simply I can
+
+write my message hi and what I once I
+
+will hit enter guys so here uh see it
+
+will be generating one error and this is
+
+not for me this is for the everyone so
+
+whoever uh basically it is uh using this
+
+particular model xess dened to invalid
+
+subscription key or wrong API end point
+
+make sure you provide a valid key for an
+
+active
+
+subscription and current API okay I
+
+think I was getting this uh 5 minute
+
+error because within 5 minute actually
+
+they are going to be active this
+
+deployment let me check with other
+
+message
+
+hello access deny due to invalid
+
+subscription key or wrong API endpoint
+
+is it wrong guys okay just give me a
+
+second let me check
+
+it so here guys you can see

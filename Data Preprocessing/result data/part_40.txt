@@ -1,0 +1,224 @@
+ it will give you
+
+the each en detail see here is what here
+
+is the endpoint URL primary key
+
+secondary key now JavaScript python C s
+
+p is giving you all a sort of a
+
+languages okay four main languages and
+
+other uh thing also it supports so later
+
+on basically in one advance or R and all
+
+I will be showing you but here see for
+
+the consumption it is giving you four
+
+option now just click on this Python and
+
+this is the entire code so the entire
+
+reference I'm taking it I'm taking from
+
+here itself so try Okay the same uh from
+
+the the same code basically I pasted
+
+over there then accept Okay this
+
+exception the same code now here you can
+
+see the head so same header basically I
+
+WR written over there okay inside my
+
+code now everything's same and I took
+
+the reference from this template only
+
+now without wasting a time let's test
+
+our application so if everything is fine
+
+I'll be getting my answer so here I am
+
+going to stop it first of all and let me
+
+I'll do one thing let me stop my camera
+
+so that you can get access of the entire
+
+screen so here I'm simply writing python
+
+app do py now once I will write it down
+
+it guys so see uh I'll be getting my URL
+
+okay great now just click over here on
+
+this URL here is my chat Bo now simply
+
+write hi over here that's it
+
+so let's
+
+see perfect guys perfect perfect so here
+
+I'm getting my answer and it is in front
+
+of you only and now I can test right so
+
+here actually basically I can test with
+
+the different different question and all
+
+let's say here I'm going to be asked Can
+
+you tell
+
+me uh
+
+who is uh Gandhi so this is my question
+
+let's say I'm uh submitting it and see
+
+back in back end actually GPD model is
+
+working now it will provide me answer
+
+the request information not everyone the
+
+retrieve data okay so it is a giving me
+
+answer based on the retrieve data now
+
+let's see if I'm going to be asked the
+
+question can you tell me the price of
+
+the Nike ear Max shoe so here once I
+
+will submit it so I think I will be able
+
+to get
+
+it now here yes I'm getting it so see
+
+guys previously I was uh talking about
+
+uh previously basically I was asking
+
+this particular question but as a GPT
+
+model it was not giving the answer okay
+
+why because every information is trying
+
+to fetch from the uh document and is
+
+providing the answer so here what I will
+
+have to do tell me so here I will have
+
+to rectify my prompt okay whatever
+
+prompt in a back end uh like they are
+
+passing right so here in the prompt flow
+
+basically you will find out they're
+
+passing the prompt okay uh where you
+
+will get it you'll be getting inside the
+
+project itself uh let me show you where
+
+uh in the
+
+deployment this is my
+
+project okay prom flow this one prom
+
+flow and here is this two uh okay this
+
+one now just scroll down and you will be
+
+getting the prompt and all everything
+
+see so you will have to rectify Guys
+
+these particular prompt if you want to
+
+get your desired answer means uh with
+
+respect to the other question and all
+
+that's it nothing else so I hope uh you
+
+like this series guys I think uh I
+
+fulfilled my promise I created my own uh
+
+rag uh system okay I created my own
+
+chatbot and yes it will be able to
+
+provide you the answer with respect to
+
+each and every question in all you can
+
+ask about the nice sendal also so let's
+
+see whether it is working or not so once
+
+you will click on this submit and here
+
+you will be able to find out the detail
+
+means uh yes it is a patching from the
+
+document itself and based on that it is
+
+going to be argument the response so I
+
+hope uh you like this series and I
+
+started from the introduction and all
+
+but uh I kept uh the advanced part and
+
+all now uh yes if you liked it guys then
+
+please hit the like button please please
+
+mention in the comment section which
+
+part you like most if you have any doubt
+
+any question you can mention inside the
+
+comment section definitely I will look
+
+into it so thank you guys soon I'll be
+
+coming up with with uh many more uh
+
+different different courses and all so
+
+yeah uh please uh like subscribe the
+
+channel hit the like button uh if you
+
+liked it then yeah please share with
+
+your friends and whoever is required
+
+this type of tutorial and all so thank
+
+you bye-bye guys take care
+

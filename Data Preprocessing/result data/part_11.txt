@@ -1,0 +1,219 @@
+ required what we required this see
+
+this this will be default by default for
+
+every uh like this will be by default
+
+for every model okay this
+
+24201 actually it is showing a model
+
+date so you can check out also I think
+
+it was visible inside this model section
+
+this one model this one created date
+
+okay so automatically by by default you
+
+will get that date okay now coming to
+
+the next point so here is what as your
+
+end point so what I can do I can remove
+
+this one and I can give my variable name
+
+here so let me keep my variable name
+
+then the third one is going to be API
+
+key so let me remove this API key from
+
+here and I can directly pass my variable
+
+so here is what here is my API key now
+
+coming to the next one so what we
+
+required so here we required this open
+
+AI so let me mention this open AI inside
+
+this re. txe and and yes I can download
+
+or I can install this require. txt
+
+inside this particular environment don't
+
+worry I will give you this all the
+
+command related to do related to this
+
+environment creation or this uh like
+
+related to this re. txt download and all
+
+I think many video many project you will
+
+find out over here also on this platform
+
+uh like from there easily you can learn
+
+these things but I will give you all
+
+these commands so here if install then
+
+iphr requirement. THD so see uh this is
+
+running and it is installing until what
+
+I can do I can check whether everything
+
+is fine or not so p is done then uh here
+
+is API key grade so this is what this is
+
+my method client image generate here I'm
+
+passing my model name Delhi okay here is
+
+what here is my prompt give me a image
+
+where is a y great and N is equal to one
+
+means the number of image so it will
+
+provide me what it will provide me a
+
+image URL so let me print this image URL
+
+so image uncore URL let's see what I
+
+will be getting over here so my
+
+installation is done if you want to
+
+check which version I have installed so
+
+here simply you can check with the open
+
+AI API open
+
+AI Pi okay so just search about this
+
+openi pii you will get the version of
+
+this openi pii
+
+130.3 now you can go and check inside
+
+the release history also so the
+
+completion API actually it was available
+
+in 0. X okay
+
+so it was available in this particular
+
+version in this 0.28
+
+0.281 so uh like from 1.x actually it is
+
+not available you will find out this
+
+chat completion API you can check out
+
+you can go and check by U yourself as
+
+well I don't have any issue so coming to
+
+the point now so everything is fine I
+
+can cross check also now once I will
+
+write python over here so I can copy
+
+this a your open and then I can paste it
+
+so if everything is fine I will be able
+
+to load it yes it is working fine for me
+
+now exit and then I'm executing this
+
+particular file so for executing this
+
+file simply I need to write this Python
+
+and this file name Deli do3 I hope it is
+
+visible to all of you if not let me
+
+switch off my camera so here see what I
+
+need to write I need to write this Deli
+
+3. py or deli. py only this is my file L
+
+now see uh I'm running it and if
+
+everything is fine guys it is going to
+
+generate this URL at the end it will
+
+provide me a image URL so it is calling
+
+that API and after calling this API I
+
+can access the image just wait just a
+
+second great I'm getting my URL now just
+
+click over here and see here is what
+
+here is your image this one guys so
+
+again like it has gener different image
+
+because second time I'm calling it
+
+and yeah I hope you are seeing the image
+
+and you will be able to generate it also
+
+now you can write a logic wherever you
+
+want to save the image wherever you want
+
+to generate a number of image but again
+
+I'm saying cost is associated with it if
+
+you want to check the cost definitely
+
+you can check out you can go inside the
+
+price section okay I think I already
+
+shown you that uh where is a price this
+
+one pricing now just go inside the price
+
+section and check the price of the Delhi
+
+the Delhi price is quite High
+
+uh where is the Delhi Delhi Delhi oh
+
+here is a Delhi image model is not
+
+available in this particular region I
+
+think I'm working in es us so see Del e
+
+uh $4 for 100 images okay and $8 for
+
+this particular configuration and for HD
+
+actually $12 so

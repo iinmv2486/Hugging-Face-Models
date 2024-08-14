@@ -1,0 +1,227 @@
+ my prompt me whatever we are
+
+saying inside where inside the video
+
+okay so that thing I'm able to get from
+
+here from here itself then I'm calling
+
+this a your open okay the chat model for
+
+the chat model only see client chat
+
+completion create and here is what here
+
+is my chat model this which I have
+
+defined because I have to generate the
+
+answer now whatever we are saying in
+
+inside the audio so if we are asking
+
+about the Indian player name I'm passing
+
+it over here this is my user promp okay
+
+so see I'm passing it inside this chat
+
+engine so uh this is my client guys
+
+along with endpoint URL and key we are
+
+going to configure we are calling this
+
+chat completion API to the chat model we
+
+are passing this uh system prompt and
+
+here is what here is my user prompt now
+
+finally I'll be printing the answer
+
+let's see whether it is able to generate
+
+the final answer or not here I'm going
+
+to clear my screen and let me hide to
+
+myself so that you can get the access of
+
+the entire if I'm searching over here if
+
+I'm writing here Python and python
+
+whisper. py with. py oh let's see
+
+whether I'll be able to get or not no
+
+module name request okay fine so here I
+
+can mention the request also inside the
+
+re. pxd request is here it is request
+
+now I can install it on my terminal so
+
+pip install request q u
+
+let's see guys uh whether I will be able
+
+to okay so it is installing so finally I
+
+can run my file so
+
+python
+
+whisper.
+
+py it is saying file not found error I
+
+think there is a issue with the file let
+
+me check guys what is a issue with the
+
+file whether it is correct or not so
+
+here I'm going to be copy the path and
+
+let me paste the complete path because I
+
+think there's a issue with the folder
+
+name uh here I'm going to keep it and
+
+inside this
+
+data the file name is what voice
+
+mp. MP4 perfect guys I have my file now
+
+I can put the double slash because it is
+
+required in the windows system and here
+
+is what here is my file guys okay let's
+
+see whether it is working fine or not
+
+now so Python with. py and here I'm
+
+going to execute it list out all the
+
+player name in the great I'm able to get
+
+my text and see guys here is what here
+
+is my answer I hope it is perfectly
+
+visible to you now you can pass any sort
+
+of audio file you can generate the text
+
+from there using the whisper model and
+
+here you can generate the answer using
+
+what using your chat model I hope this
+
+thing is clear to all of you now let me
+
+summarize what all thing we have learned
+
+so far so I'm going through with the pp
+
+itself now uh we understood guys about
+
+this Azure open a okay the complete
+
+detail introduction and after this one
+
+we have seen so how you can access the
+
+Azure open AI so we have seen the
+
+playground chat completion API different
+
+different model gbd4 g3.5 I shown you
+
+standard quota provision quota
+
+everything pricing detail and all I hope
+
+this is perfect now my next point is
+
+going to be a function calling using a
+
+your open a so if you want to make a
+
+function calling how you can do that now
+
+apart from this one fine tuning and this
+
+a your AI studio so this will take some
+
+time this a your AI Studio but fine
+
+tuning and function calling it won't
+
+take any time okay like that much time
+
+let's start with the function calling so
+
+guys let's try to understand the basic
+
+and the fundamental concept of the
+
+function calling and then we'll go for
+
+the python implementation so here uh let
+
+me open my Blackboard on my Blackboard I
+
+kept one image and by using this image I
+
+will try to explain you the fundamental
+
+concept of the function calling so uh
+
+here let's say my user is asking a query
+
+so here is my user and he is asking a
+
+query uh through the chat interface now
+
+what is the chat interface guys so chat
+
+interface uh it could be any UI UI of
+
+the chatboard and QA system so here it
+
+is calling okay so whenever I'm writing
+
+a qu query it is calling to my openi API
+
+through the chat completion API itself
+
+so I'm going to be Define my chat
+
+completion inside my Cod and then we are
+
+calling this openi API now inside this
+
+chat completion API I'm going to Define
+
+one function okay so this function it is
+
+extracting the information from where
+
+from the user prompt so whatever prompt
+
+I'm going to be defined So based on that
+
+particular prompt it's going to be
+
+extract some information and then it is
+
+calling

@@ -1,0 +1,215 @@
+ user
+
+question and this is the answer so uh
+
+yeah now what I can do I can uh upload
+
+the file which I already selected now
+
+after uploading the file see it is
+
+getting uploaded I can simply select
+
+it it is in progress
+
+guys great I got my file now just select
+
+it okay done then just click on this
+
+next and it is asking about the
+
+validation just select this file great
+
+validation is done Okay now click on
+
+this next and here these are the like
+
+some option which is which it is giving
+
+to you how many number of epo you want
+
+to run in number of epo EPO means what
+
+forward propagation plus back
+
+propagation that is called one EPO so uh
+
+if you will go and check with the custom
+
+one you will find out you can increase
+
+the number of AO by default actually is
+
+two only now B size if you have lots of
+
+data if you like would like to uh
+
+provide the data in the batches as of
+
+now there is only one batch means we are
+
+providing the entire data but if you
+
+want to increase the B size you can do
+
+it that is also possible now our
+
+learning rate like multiplier so yes
+
+that is also like you can you can like
+
+put and here you can uh Define the seed
+
+value also okay so these are the thing
+
+basically which I'm keeping by default
+
+only and here I I'm going to be click on
+
+this next and see this is the like final
+
+information and then you can start your
+
+training job now once you will click on
+
+this training job so here see guys it it
+
+has started with a fine tuning so this
+
+is what this is my fine tuning progress
+
+now let it complete and uh I won't
+
+complete it guys because it's going to
+
+be charge you a lot and I don't want it
+
+and guys uh believe me not even charge
+
+it will take the time as well so if I
+
+want to get this particular model so the
+
+charge this uh trading time it will take
+
+around 30 to 35 minute and after 35
+
+minute I'll will be getting the model
+
+after 15 minutes so this is a 1 hour
+
+effort okay 1 hour process with a 10
+
+line only just just think guys how big
+
+the model is and how much time it will
+
+take with a like just a small it's just
+
+like with a 10 line only if you are
+
+passing like 100 line or 150 line so it
+
+might take uh maybe 2 Hour 3 Hour 4 Hour
+
+it depends on the data only so here
+
+first of all let me calc the cost and
+
+then uh I think this is done uh so yeah
+
+then I will be stopping the stopping
+
+this particular process and see after uh
+
+like training this particular model so
+
+you'll be getting it over here itself
+
+okay inside your model then definitely
+
+you can uh deploy it and then you can
+
+use inside your chat engine or else you
+
+can consume it inside the local in a
+
+similar way we are going to be we are
+
+consuming the other model getting my
+
+point so on let me repeat it once you
+
+will uh like train this particular model
+
+okay so you will be getting over here
+
+along with all the model you can deploy
+
+it over here inside this section and
+
+then you can utilize it directly inside
+
+your playground or else you can access
+
+it inside your local system as well
+
+using the get completion API fine now uh
+
+let's discuss about the price and all so
+
+let's say I have decided this particular
+
+model so the price is what training per
+
+compute R is what 45 tell me guys
+
+$45 so here I am going to be open My
+
+Epic pen uh let's try to calculate some
+
+sort of a price so here guys let's
+
+say um
+
+great perfect so uh let's say guys here
+
+the price for the per computer R is what
+
+$45 okay so if we going to talk about
+
+here or instead of this one I can open
+
+my calculator just a second because I
+
+think it is giv some
+
+problem $45 for the per computer let's
+
+say if I'm going to be uh if my process
+
+going to be for the half an hour so you
+
+can uh divide it by two itself so there
+
+will be around 23 okay now apart from
+
+this one here hosting per hour let's say
+
+I'm going to be hosted for the uh this
+
+particular model for uh let's say 2 hour
+
+okay so here uh what is this tell me $3
+
+so here I'm going to be add more $6 now
+
+apart from this one see input uses per
+
+th000 token so this is fine this is are
+
+very less charges I can add $1 more so
+
+here around $30 so if I want to use this
+
+model if I just want to

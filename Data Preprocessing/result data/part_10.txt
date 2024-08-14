@@ -1,0 +1,229 @@
+
+
+this is a previous version this uh
+
+completion API is nothing uh actually
+
+this is what this is the previous
+
+version old version how we can check out
+
+let me show you so let's say if I'm
+
+writing High here and it will generate
+
+the answer no no doubt no issue the
+
+completion orientation the specified
+
+model Delhi okay so it is saying that
+
+first please change the model uh where
+
+is the model guys this is the option for
+
+the model uh chat engine is fine great
+
+now finally I can check so let's see
+
+whether it is generating or not so yes
+
+it is generating now I think see it is
+
+generating related to what what Rel to
+
+the code uh I think I will have to
+
+define the chat context from here like
+
+let's say I'm going to be Define this
+
+question answering so here what I can do
+
+I can ask any sort of a question and
+
+according to that is going to generate
+
+answer how many NE are is there let me
+
+generate it let's see what I'll be
+
+getting it's it it is giving me a
+
+predefined template okay now I can ask
+
+my uh my question basically so what is
+
+your name let's say so if I'm going to
+
+ask any custom question definitely it
+
+will be able to generate the answer so
+
+no the model consider model modifying
+
+your prompt and parameter to behavior
+
+okay so I think guys I will have to give
+
+in this specific format only means
+
+related to this one only uh whatever
+
+question whatever uh context they have
+
+given likewise you can check but yes
+
+again uh there is a chat board also you
+
+can check okay uh so let's see what I
+
+can ask over
+
+here uh hi so let's see what I'll be
+
+getting with this particular one no text
+
+by the consider modifying your prompt
+
+and parameter to improving the PRS okay
+
+fine so I think guys uh we'll have to
+
+check what I can do from here but yes uh
+
+you can explore it and you can run it
+
+now uh the main thing basically which I
+
+want to show you over here that is what
+
+there is a view code now once you will
+
+go and check with this view code so you
+
+will get the code and guys this code
+
+actually it is uh representing to the
+
+previous one okay the uh code related to
+
+the previous version definitely you can
+
+copy and you can check it
+
+now uh coming to the next Point here see
+
+Delhi so if I'm such if I'm writing
+
+anything over here uh inside this prompt
+
+let's say I'm writing uh give me a
+
+image where where person or where boy is
+
+cycling and girl
+
+City behind him so this is what this is
+
+my prompt now let me generate it and
+
+let's see what I'll be getting
+
+here will take some time and again uh
+
+whatever images you are
+
+generating like with it the price is
+
+associated
+
+okay fine so see guys how like uh like
+
+they have generated the image so here is
+
+a boy and the girl is sitting behind
+
+this boy anything you can gener you can
+
+download it from here you can delete it
+
+and one more thing show code so just
+
+click over here on this show code and
+
+here guys you will get the code as well
+
+now let's see how we can use this python
+
+SDK right for accessing this model so
+
+first of all uh these three things is
+
+required first is what endpoint URL then
+
+API key and then this code let me copy
+
+this endpoint URL and see already I have
+
+created this uh environment and all
+
+everything so here my folder name is
+
+what your openi crash course inside this
+
+one this is my environment EnV here is
+
+my file where where I didn't I haven't
+
+written anything and this is my require.
+
+txt file okay so what I'm doing I'm
+
+creating one more file the file name is
+
+going to be deli. py now inside this
+
+del. py uh the first thing is what
+
+endpoint URL so let me keep it this
+
+endpoint URL and guys this is a
+
+confidential thing so please don't
+
+expose to anyone and after the session I
+
+will also delete it so no one can access
+
+it so here is what here is my endp point
+
+URL I can do one thing I can create EnV
+
+file also over here and there also I can
+
+keep my confidential information and
+
+directly I can read it inside by file
+
+but as of now directly I'm mentioning
+
+over here in front of you only now the
+
+next thing is what API key so let me
+
+take the API key also from where from
+
+this code so I'm copying over here this
+
+API key now perfect now the third thing
+
+is what guys here I want to write a code
+
+so this is going to my code now let we
+
+copy it and here I'm going to be paste
+
+it so this is my code now see guys here
+
+uh we

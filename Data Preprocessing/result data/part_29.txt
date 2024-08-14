@@ -1,0 +1,221 @@
+ test it in that
+
+case I will have to pay at least $30
+
+guys okay where I'm and where I'm
+
+calculating the training time just for
+
+half an hour let's say if I'm having a
+
+huge amount of data in that case uh it
+
+will take around
+
+like 2 to 3 hour or maybe more than that
+
+so the charge is going to be very very
+
+huge and guys you won't believe me I got
+
+$120 will within half an hour only so
+
+that's why I'll be sto sorry $120 will
+
+within one and a half hour okay so
+
+that's why I will be stopping the
+
+process and yes uh rest of the thing is
+
+fine now if you want to calculate into
+
+the Indian rupees so simply uh what you
+
+can do 30 into let's say I can take 883
+
+only so $1 is equal to 83 RUP now here
+
+is the prices around
+
+2.5k right rupia so that will be a price
+
+for what for the fine tuning just for 1
+
+hour that's why I was saying it is
+
+costly and I think you got to know the
+
+process of the fine tuning so let me
+
+stop it because it is going to be run uh
+
+now here see here you can see inside the
+
+notification and all it is creating the
+
+fine tune model now uh here I can delete
+
+it so so perfect it is not at all
+
+required so yes I hope you got to know
+
+about the fine uni now let's try to
+
+understand the next thing uh let me open
+
+the PPD itself so now we'll be talking
+
+about this a your AI Studio
+
+guys now in this Azure AI Studio guys
+
+first we'll start with the Azure AI Hub
+
+I will create the Azure AI Hub and the
+
+other resources then uh I will deploy
+
+the model or I will see that how I will
+
+show you that how we can use the model
+
+from the AZ openi directly from the AI
+
+also you can connect okay inside this
+
+azui studio we'll create our own rag uh
+
+mean means our custom rag and uh then uh
+
+here we going to steam like the entire
+
+pipeline using this promp flow it is a
+
+very amazing Service uh which is being
+
+provided by the aori studio then we'll
+
+create an endpoint URL okay means I will
+
+deploy the application finally and we we
+
+will be consuming it inside our local
+
+application so here we're going to
+
+create one flask application and there I
+
+will show you how you can consume this
+
+endpoint URL okay now before it starting
+
+with this Azor EI Studio you should be
+
+aware about this azori studio guys so uh
+
+what you can do you can check out with
+
+the uh Microsoft itself with the
+
+official page of the Microsoft now just
+
+see uh what they are saying about this
+
+Azure AI studio so Azure AI Studio it's
+
+a unified platform for developing and
+
+deploying generative AI application so
+
+if you you want to create generative
+
+related application if you want to
+
+deploy it okay so this a plateform will
+
+help you from starting to end it's a
+
+unified it's a single platform for
+
+everything and it's pretty amazing guys
+
+definitely you will get to know once
+
+I'll be showing the entire functionality
+
+of this a AI studio now you can check
+
+the overview so inside the overview they
+
+have mentioned explore the model craft
+
+it then design it then roliz is okay so
+
+you can uh like like like get a
+
+evaluation and all evalution metrics and
+
+all at the single place after deployment
+
+and all then uh here you can see the
+
+benefit so what is the benefit it is
+
+going to be improve the customer
+
+experience it is reducing the
+
+organization risk okay improve work
+
+quality and then enhance productivity
+
+and all capabilities so yes uh these are
+
+the capability you can build your own
+
+co-pilot Enterprise check okay that we
+
+are going to be create here incorporate
+
+multimodality means you can uh like keep
+
+all the models the different different
+
+type of model and one very amazing thing
+
+I will show you and you will literally
+
+Sol so uh okay just wait I will be
+
+showing you that now analyzis spe yes
+
+you can analyzis the speech also so yes
+
+you can go through with it and pricing
+
+and all everything they have mention and
+
+yes definitely you will be able to get
+
+each and everything now coming to this
+
+AO AI studio so for that what I will
+
+what I have to do first I have to open
+
+the Azure portal so I'm going to be open
+
+the Azure portal inside the new new uh
+
+like uh inside a new
+
+browser new window guys so this is what
+
+this is my a portal now let me click it
+
+and here guys just a second let me do
+
+the sign in and this is what this is my
+
+a

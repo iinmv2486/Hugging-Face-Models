@@ -1,0 +1,219 @@
+ to some third party API okay and
+
+then from there itself it is fetching
+
+the information got it now uh I hope
+
+this thing is clear but let's try to
+
+understand it by using the example and
+
+then we'll try to implement that same
+
+example okay in the python code only so
+
+uh let's say uh here is a user now this
+
+user actually uh this uh wants to
+
+understand or this wants to know about
+
+the latest weather of the Mumbai now uh
+
+here is what uh here I'm calling my GPD
+
+model GPD uh let's say 3.5 now this GPD
+
+3.5 it does not know the latest weather
+
+of the Mumbai or any other city like
+
+Delhi bangaluru bopal indor whatever
+
+right now this uh openi actually openi
+
+model it I don't know the like current
+
+weather of the model so what it will do
+
+guys so inside this one what I will do
+
+so here I will be defining one function
+
+now this function okay it will take this
+
+location it will take this location and
+
+after collecting this location what will
+
+happen you know so it is going to be
+
+called this third party API for what for
+
+extracting the external information so
+
+here I got the location let's say I got
+
+the Mumbai now uh based on my code
+
+whatever code I'm going to be write
+
+whatever description I'm going to be
+
+write based on that let's say it's going
+
+to be called this weather API we e a t h
+
+e r weather API okay now now this
+
+weather API based on the location it is
+
+providing me a information and then this
+
+information is coming uh the response is
+
+coming to my chat completion API itself
+
+and finally it is going to the user
+
+itself I hope the understanding is clear
+
+to you now if someone is going to ask
+
+you in the interview why we use this
+
+function calling what is the use of this
+
+open a function calling so simply you
+
+can say that so this model this uh this
+
+this particular model this llm model it
+
+does not aware about with the it does
+
+not aware with the latest information
+
+okay or the recent information so those
+
+information we can fetch externally from
+
+outside and there this function calling
+
+comes we can extract the like necessary
+
+inputs from where from The Prompt itself
+
+and based on that I can call my further
+
+code for calling the external API for
+
+fetching the information I hope this
+
+thing is clear now let's try to
+
+implement it in a python so here guys uh
+
+let me do one thing let me so here all I
+
+created one file function calling uh f c
+
+okay fine this is fine now here itself
+
+I'm going to write my code so uh let me
+
+write the import statement import OS
+
+then uh here I'm going to be import one
+
+more module that is going to be a
+
+dequest then from uh open here itself
+
+I'm going to be open uh I'm going to be
+
+import this as your openi so let me
+
+import this as your open guys perfect so
+
+I have imported this now now what I'm
+
+doing I'm going to be create one method
+
+method name is going to be main now uh
+
+here inside this method uh what I can do
+
+I can test it whether it is working fine
+
+or not so I can simply write a testing
+
+over here so let me write this testing
+
+now what I can do I can call this
+
+particular method so let me call this
+
+method Main and here I can call it
+
+inside this if condition so if a name is
+
+equal to is equal to M okay now perfect
+
+I hope everything is fine uh so what I'm
+
+doing guys so first of all let me switch
+
+off my camera so that you can get access
+
+of my screen now what I will do so here
+
+uh actually I'm going to be run this
+
+particular file so simply uh I have to
+
+write this python function calling uh
+
+where I'm writing it guys just a second
+
+what is happening let me open the
+
+command prom I think that is fine now
+
+let me write here python function call
+
+great so if everything is fine guys I'll
+
+will be getting my testing okay perfect
+
+so I'm getting my testing now I have to
+
+write my further code so let me write uh
+
+the further code so first of all what I
+
+have to do guys so I have to Define my
+
+client uh I already shown you this uh
+
+chat completion API right so from here
+
+itself I'm going to take this client now
+
+uh let me copy this CLI and here I'm
+
+going to paste it inside my main
+
+function got it guys now this client
+
+actually it is required two things first
+
+is endpoint and the second is what the
+
+second is API key so let me Define this
+
+end point and this API key over
+
+here so guys this API key and endpoint
+
+from
